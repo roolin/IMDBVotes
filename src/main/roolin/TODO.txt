@@ -1,0 +1,4 @@
+- real time info o progresie
+- update danych z plików?
+- plik konfiguracyjny
+- ustawienia jako parametry lini poleceń
